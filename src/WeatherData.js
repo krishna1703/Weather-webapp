@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 
 
 
-<div className="current-date">{Date(new Date())}</div>
+
 
 
 const WeatherData = () => {
